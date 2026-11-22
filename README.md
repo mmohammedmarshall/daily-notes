@@ -1,19 +1,16 @@
-
 # Daily Notes
 
-A simple project for organizing daily notes and useful ideas.
+A browser-based application for recording and saving daily notes.
 
 ## Features
-- Daily journal entries
-- Task organization
-- Productivity notes
-- Personal learning records
+- Write daily notes
+- Save notes using local storage
+- View previously saved notes
 
-## Project Goals
-Build a simple and organized note-taking resource.
+## Usage
+Open `index.html` in a browser, enter a note and click Save Note.
 
-## Future Plans
-- Add note categories
-- Add search functionality
-- Improve organization
-  
+## Technologies
+- HTML
+- CSS
+- JavaScript
