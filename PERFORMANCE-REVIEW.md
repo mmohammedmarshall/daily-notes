@@ -1,14 +1,14 @@
 # Performance Review
 
-**Repository:** useful-web-tools
+**Repository:** daily-notes
 **Review Date:** 2026-11-27
 
 ## Performance Checks
 
 | No. | Test Scenario | Observation | Status |
 |---|---|---|---|
-| 1 | Check the response time of each utility. | Record actual result | Pending |
-| 2 | Identify repeated calculations that could be simplified. | Record actual result | Pending |
+| 1 | Measure how quickly saved notes appear after saving. | Record actual result | Pending |
+| 2 | Check whether loading many notes causes noticeable delays. | Record actual result | Pending |
 | 3 | Test the application on a mobile viewport. | Record actual result | Pending |
 
 ## Performance Findings
